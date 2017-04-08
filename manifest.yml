@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: sd14cs048-calc
+  host: sd14cs048-calc
+  disk_quota: 1024M
