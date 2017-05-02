@@ -1,4 +1,4 @@
-# PHP Hello World Sample
+# PHP Hello World Sample.
 
 This application demonstrates a simple, reusable PHP web application.
 
